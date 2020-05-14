@@ -1,11 +1,11 @@
-# Machine Learning Homework - Exoplanet Exploration
+﻿# Machine Learning Homework - Exoplanet Exploration
 
 ![exoplanets.jpg](Images/exoplanets.jpg)
 
 ## Solution
 Enclosed are three machine learning models.
 All three models; K Nearest Neigbors, Support Vector Machine (SVC), and Logistic Regression calculated an accurcacy score of 0.8.
-With the best of the three being a tie between Support Vector Machine (SVC), and Logistic Regression with a score of 0.868013.
+With the best of the three being the Support Vector Machine (SVC) with a score of 0.868013.
 
 
 
